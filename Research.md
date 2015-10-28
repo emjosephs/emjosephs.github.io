@@ -26,8 +26,8 @@ What role does selection play in shaping genomic variation? I collaborated with 
 The population I'm working on is located on a trail head near the Greek town of Monodendri.
 
 
-<div style="float: left; padding-right: 15px">
-    <a href="http://emjosephs.github.io/img/esp.jpg"><img src="/img/esp.jpg" alt="Population ESP" title="Picture" width="150" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'esp']);"></a>
+<div style="float: center; padding-right: 15px">
+    <a href="http://emjosephs.github.io/img/esp.jpg"><img src="/img/esp.jpg" alt="Population ESP" title="Picture" width="400" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'esp']);"></a>
 </div>
 
 
