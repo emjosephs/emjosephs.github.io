@@ -1,12 +1,10 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        height: 100px;
-        background-image: url("../img/field.jpg");
+        height: 55px;
+        background-color: #F5F5F5;
         position: relative;
         width: 100%;
-	max-width: 1500px;
-	margin: 0 auto;
     }
 
     .site-header a {color: $brand-color};
@@ -95,7 +93,6 @@
     .page-content {
         padding: $spacing-unit 0;
         text-align: justify;
-	min-height: 500px;
     }
 
     .page-heading {
