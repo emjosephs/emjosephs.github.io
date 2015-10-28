@@ -13,6 +13,10 @@ I am working to characterize genetic and phenotypic variation within a natural p
 
 You can read more about this project in our [biorxiv manuscript](http://biorxiv.org/content/early/2015/09/21/015743)
 
+<div style="float: center; padding-right: 15px">
+    <a href="http://emjosephs.github.io/img/grandiflora.jpg"><img src="/img/grandiflora.jpg" title="Capsella grandiflora" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
+</div>
+
 
 # Population genomics of *Capsella grandiflora*
 
@@ -25,9 +29,8 @@ What role does selection play in shaping genomic variation? I collaborated with 
 
 The population I'm working on is located on a trail head near the Greek town of Monodendri.
 
-
 <div style="float: center; padding-right: 15px">
-    <a href="http://emjosephs.github.io/img/esp.jpg"><img src="/img/esp.jpg" alt="Population ESP" title="Picture" width="400" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'esp']);"></a>
+    <a href="http://emjosephs.github.io/img/esp.jpg"><img src="/img/esp.jpg" alt="Population ESP" title="Study Population" width="400" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'esp']);"></a>
 </div>
 
 
