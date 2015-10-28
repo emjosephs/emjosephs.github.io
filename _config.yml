@@ -1,15 +1,18 @@
 # Site settings
 title: Emily Josephs
-email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Website for Emily Josephs
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://emjosephs.github.io" # the base hostname & protocol for your site
+email: emjosephs@gmail.com
+description: > #  Website for Emily Josephs
+#baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://emjosephs.github.io"
 twitter_username: emjosephs
 github_username: emjosephs
 
+### content configuration ###
+#favicon:     "/img/favicon.ico"
+#touch_icon:  "/img/apple-icon-144x144.png"
+
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
