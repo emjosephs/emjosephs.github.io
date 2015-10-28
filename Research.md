@@ -24,3 +24,11 @@ What role does selection play in shaping genomic variation? I collaborated with 
 *Capsella grandiflora* is a small weedy annual native to northern Greece and Albania. It's an obligate outcrosser and a member of the Brassicaceae family. It often gets mistaken for Arabidopsis, but, unlike Arabidopsis, it has heart-shaped fruit and somewhat larger flowers.
 
 The population I'm working on is located on a trail head near the Greek town of Monodendri.
+
+
+<div style="float: left; padding-right: 15px">
+    <a href="http://emjosephs.github.io/img/esp.jpg"><img src="/img/esp.jpg" alt="Population ESP" title="Picture" width="150" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'esp']);"></a>
+</div>
+
+
+
