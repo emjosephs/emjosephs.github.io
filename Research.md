@@ -16,6 +16,7 @@ I am working to characterize genetic and phenotypic variation within a natural p
 </div>
 
 
+
 # Population genomics of *Capsella grandiflora*
 
 What role does selection play in shaping genomic variation? I collaborated with Robert Williamson to explore this in a sample of 13 *C. grandiflora* individuals collected from across the species range. In particular, I examined whether positive selection has significantly contributed to divergence between *C. grandiflora* and its close relatives by looking for reduced diversity around replacement substitutions, as would be expected if selective sweeps have been common. I also tested for variation in the strength of selection between genes with different expression levels. You can read more about this work [here](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004622) . We also collaborated with Ramesh Arunkumar to measure selection on pollen-expressed genes and this work is described [here](http://mbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=23997108).
