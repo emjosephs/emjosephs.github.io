@@ -11,8 +11,6 @@ What evolutionary processes maintain phenotypic variation within populations? Ho
 
 I am working to characterize genetic and phenotypic variation within a natural population of *Capsella grandiflora*. To do this I am collaborating with Young Wha Lee on genome-wide association mapping study which will attempt to connect genetic sequence, gene expression levels, and physical traits. My goals are not only to find the genetic variants which affect phenotypic variation, but also to describe how selection acts on these variants. To do this, I'm using gene expression as a model phenotype and focussing on local genetic variants that affect expression.
 
-You can read more about this project in our [biorxiv manuscript](http://biorxiv.org/content/early/2015/09/21/015743)
-
 <div style="float: center; padding-right: 15px">
     <a href="http://emjosephs.github.io/img/grandiflora.jpg"><img src="/img/grandiflora.jpg" title="Capsella grandiflora" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
 </div>
