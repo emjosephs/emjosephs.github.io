@@ -37,6 +37,6 @@ The population I have focussed on on is located on a trail head near the Greek t
 Maize (*Zea mays* subsp. *mays*) is not only delicious but a great genetic model for thinking about adaptation during domestication and breeding. Maize is currently grown at a staggering scale over 96 million acres in the US alone but is also grown world-wide in a range of habitats.
 
 <div style="float: center; padding-right: 15px">
-    <a href="http://emjosephs.github.io/img/cornyem.jpg"><img src="/img/esp.jpg" alt="Population ESP" title="Study Population" width="400" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'esp']);"></a>
+    <a href="http://emjosephs.github.io/img/cornyem.jpg"><img src="/img/esp.jpg" alt="Corn" title="Corny" width="400" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'esp']);"></a>
 </div>
 
